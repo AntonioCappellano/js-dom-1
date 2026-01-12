@@ -5,4 +5,5 @@ console.log("btn btn-primary");
 
 myButton.addEventListener("click", function () {
   console.log("ho cliccato");
+  isOffLamp.src = "./img/yellow_lamp.png";
 });
